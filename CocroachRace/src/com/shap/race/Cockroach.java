@@ -1,7 +1,6 @@
 package com.shap.race;
 
 import java.util.concurrent.Callable;
-import java.util.concurrent.CyclicBarrier;
 
 /**
  * Created by Bohdan Shaposhnyk on 12.01.2017.
