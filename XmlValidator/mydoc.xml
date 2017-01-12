@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<basket>
+	<thing>
+		<title>thing1</title>
+		<price>555</price>
+	</thing>
+	<thing>
+		<title>thing2</title>
+		<price>250</price>
+	</thing>
+	<thing>
+		<title>thing3</title>
+		<price>1230</price>
+	</thing>
+	<thing>
+		<title>thing4</title>
+		<price>221</price>
+	</thing>
+</basket>
